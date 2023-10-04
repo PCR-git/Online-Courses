@@ -1,4 +1,5 @@
-# Online-Courses
+# ONLINE CLASSES:
+—————————————
 
 MACHINE LEARNING
 
@@ -101,24 +102,30 @@ MATHEMATICS
 
 STATISTICS
 
+* MIT Intro to Statistics: https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0 
+* UCLA STATS 101A - Intro to Data Analysis and Regression: https://www.youtube.com/playlist?list=PL8tQIsJPRzrAU_u47TIvmnDfxHcO3ofsN 
+* Design and Analysis of Experiments: https://www.youtube.com/playlist?list=PLPjSqITyvDeWS9Lxp4jreGJ7eNsxHxJA8 
+* UCLA STATS 100B - Intro to Mathematical Statistics: https://www.youtube.com/playlist?list=PLAYxx7zX5F1PIvRju27s4CRAwhSGoxhVg
 * UCLA STATS 100C - Linear Models: https://www.youtube.com/playlist?list=PLN_qg0-2-0Sz2LEPUZwplheQzWXBCH18_ [7/20]
 * UCLA STATS 205 - Hierarchical Linear Models: https://www.youtube.com/playlist?list=PLAYxx7zX5F1MUAvvhZQyA4ISyKYuoKdH6 [0/17]
 * UCLA STATS 203 - Large Sample Theory: https://www.youtube.com/playlist?list=PLAYxx7zX5F1NKukTVwMADi1D5dbufWJkz  [0/19]
 * UCLA STATS M254 - Statistical Methods in Computational Biology: https://www.youtube.com/playlist?list=PLAYxx7zX5F1MRNHf0EoYGpsc9t1jrAtck [0/17]
 * UCLA STATS 200B - Theoretical Statistics: https://www.youtube.com/playlist?list=PLN_qg0-2-0SxITXtaAsO93zPSuQx03e1I [0/22]
 * UCLA STATS 200C - High Dimensional Statistics: https://www.youtube.com/playlist?list=PLN_qg0-2-0Sy-nbvOCLgt6uIQsOnmG-iV
-* Statistical Learning Theory (MIT 2017): https://www.youtube.com/playlist?list=PLyGKBDfnk-iCXhuP9W-BQ9q2RkEIA5I5f [4/19]
 * Statistical Inference: https://www.youtube.com/playlist?list=PL9nlf3JtLINpN4KD1zQcKP0SWcT5dT0ri
 * Bayesian Statistics: https://www.youtube.com/watch?v=7sA8QLZgSHc&list=PLLG1JiumJDku-znWg0WYRfTr9gF2HsNkl&ab_channel=LemanLectures
+* Statistical Learning Theory (MIT 2017): https://www.youtube.com/playlist?list=PLyGKBDfnk-iCXhuP9W-BQ9q2RkEIA5I5f [4/19]
 
 PHYSICS
 
-* Classical Mechanics: https://www.youtube.com/watch?v=kfa-1N18_Zc&list=PLoRUNeJAicqbQPmKv3HNBIlcydy0CAI7k&ab_channel=NTNUUndervisning
-* Classical Mechanics (Susskind): https://www.youtube.com/playlist?list=PL47F408D36D4CF129
+* Fundamentals of Physics: https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B
+* Fundamentals of Physics II: https://www.youtube.com/playlist?list=PLYQdyOTZg5ntOv_PwIjsm3jYDYu94mV55 
 * Engineering Dynamics: https://www.youtube.com/playlist?list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC
-* Electrodynamics: https://www.youtube.com/playlist?list=PLp0hSY2uBeP-S-fTaklDhGOOg4wpKYc6K 
-* Fluid Mechanics: https://www.youtube.com/playlist?list=PLZOZfX_TaWAGocs2k5QmTL44OKOl7rn34 [0/19]
-* Thermodynamics: https://www.youtube.com/watch?v=kLqduWF6GXE&list=PLF6C6594F42ECEE0D&ab_channel=MITOpenCourseWare
+* Classical Mechanics (following Goldstein): https://www.youtube.com/watch?v=kfa-1N18_Zc&list=PLoRUNeJAicqbQPmKv3HNBIlcydy0CAI7k&ab_channel=NTNUUndervisning
+* Classical Mechanics (Susskind): https://www.youtube.com/playlist?list=PL47F408D36D4CF129
+* Electromagnetism (following Griffiths): https://www.youtube.com/playlist?list=PLeWSImvDbplfIHNaILVgRIBad_ACfN7To
+* Advanced Electromagnetism: https://www.youtube.com/playlist?list=PLp0hSY2uBeP-S-fTaklDhGOOg4wpKYc6K 
+* Graduate Electromagnetism: https://www.youtube.com/playlist?list=PL3dvjKFzyZJqQZuzhD9luKEA5bRl2AO1H 
 * Statistical Mechanics 1: https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg 
 * Statistical Mechanics 2: https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7 
 * Statistical Mechanics (Susskind): https://www.youtube.com/watch?v=D1RzvXDXyqA&list=PLXLSbKIMm0kjxyp45FIY62XNgHk4ywSaH&ab_channel=Stanford [2]
@@ -142,19 +149,23 @@ PHYSICS
 * String Theory (Susskind): https://www.youtube.com/playlist?list=PLA2FDCCBC7956448F 
 * String Theory: https://www.youtube.com/playlist?list=PL3PVFGnaPl_sCp2A87NVD8GT5Z8Oqw3Yr 
 * The rest of the Susskind lectures: https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e 
+* Quantum Computation: https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu 
+* Quantum Computation: https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR 
 * Astronomy public lectures: https://www.youtube.com/playlist?list=PL0yNjaybQwdudycotA6z0DFK5DZaXWE1J 
 * MORE PHYSICS COURSES: https://www.youtube.com/channel/UCBlqfZZYQWKyr6qLAB7LINw
 
 CHEMISTRY & BIOLOGY
 
 * Intro Chemistry: https://www.youtube.com/playlist?list=PLUl4u3cNGP63LOmB3_O0xbgZVZibxj4rb
+* UCLA Chemistry 20A: https://www.youtube.com/playlist?list=PLe1OwzlifIAf2muZQd7v4RAJ79in96fW3
+* Chemical Thermodynamics: https://www.youtube.com/watch?v=kLqduWF6GXE&list=PLF6C6594F42ECEE0D&ab_channel=MITOpenCourseWare 
 * Physical Chemistry: https://www.youtube.com/watch?v=XxRjzphItU0&list=PLUl4u3cNGP62RsEHXe48Imi9-87FzQaJg&ab_channel=MITOpenCourseWare
 * Organic Chemistry: https://www.youtube.com/watch?v=AeOcZUkgemc&list=PL6539BAED55972D64&index=5&ab_channel=UCIMedia 
 * Biophysics: https://www.youtube.com/playlist?list=PLFn7fvIP7CbMun4daH24AZzX3r7ETT6aD 
 * Molecular Biophysics: https://www.youtube.com/playlist?list=PLuIpgNT2hMwRQKFy4okoNQKiJwM8li3Sz
 * The Human Brain: https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP
 * Introductory Biology: https://www.youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63 
-* Intro Biology 2: https://www.youtube.com/playlist?list=PLUl4u3cNGP60xwJdwhP6Ado1IbQjvLsPD
+* Introductory Biology 2: https://www.youtube.com/playlist?list=PLUl4u3cNGP60xwJdwhP6Ado1IbQjvLsPD
 * Molecular and Cellular Biology: https://www.youtube.com/playlist?list=PLPGS07fMwVsc6BxUkqXDMuLn8ppKvCoyG
 * Evolutionary Biology: https://www.youtube.com/playlist?list=PLB225304713046D4F 
 * Human Behavioral Biology (Robert Sapolsky): https://www.youtube.com/playlist?list=PL150326949691B199 [2]
@@ -164,6 +175,16 @@ CHEMISTRY & BIOLOGY
 * Medicine: https://www.youtube.com/playlist?list=PLgfyCCmwycpJ5FJ3bmMDQvSZPjHOawrst 
 * Medicine: https://www.youtube.com/playlist?list=PLpy31mWaA4A4YVv4uIo11P8mA8tScc6SJ 
 * Medicine (short): https://www.youtube.com/playlist?list=PLVnjTkEwv-uMKHMDLsYa7kW45dG9tnAZo 
+
+ENGINEERING
+* Fluid Mechanics 1 (John Biddle): https://www.youtube.com/playlist?list=PLZOZfX_TaWAGocs2k5QmTL44OKOl7rn34 [0/19]
+* Fluid Mechanics 2 (John Biddle): https://www.youtube.com/playlist?list=PLZOZfX_TaWAE7uM59dIBr-rH73WTJCcp_ 
+* Heat Transfer (John Biddle): https://www.youtube.com/playlist?list=PLZOZfX_TaWAHZOgn8CRjpqRElp5Dd-GaY 
+* Intro to Circuits: https://www.youtube.com/playlist?list=PL8kq5qsK0cc42p-m3eGHiuCi3Xr_ORv9W 
+* Design of Analog Circuits: https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT 
+* Design of Digital Circuits: https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9 
+* CMU Optimal Control: https://www.youtube.com/playlist?list=PLZnJoM76RM6KugDT9sw5zhAmqKnGeoLRa 
+* Convex Optimization (Stephen Boyd): https://www.youtube.com/playlist?list=PL3940DD956CDF0622 
 
 OTHER SCIENCE
 
@@ -176,7 +197,7 @@ OTHER SCIENCE
 * Chomsky on linguistics: https://www.youtube.com/playlist?list=PLISEtDmihMo2Acv63ixYFN7mDk81i2tpK 
 
 HISTORY & POLITICS
-* Chinese politics [4]: https://www.youtube.com/watch?v=hOcXk_35-rI&list=PLtC2xxF6af5RtM6KXsKDW6tQUUlHvs61W&ab_channel=RoryTruex
+* Chinese politics [5/14]: https://www.youtube.com/watch?v=hOcXk_35-rI&list=PLtC2xxF6af5RtM6KXsKDW6tQUUlHvs61W&ab_channel=RoryTruex
 * Modern Empires: https://www.youtube.com/playlist?list=PL96EAE2875AF0EDEA 
 * History of the World (Richard Bulliet): https://www.youtube.com/playlist?list=PLXxM47ZxXvkaODXkQBO5RrUJQh5mA0N6l
 * Early Middle Ages: https://www.youtube.com/playlist?list=PL851F45079A91C3F2 
@@ -208,7 +229,8 @@ HISTORY & POLITICS
 
 OTHER
 * English Literature: https://www.youtube.com/playlist?list=PLjLHo7a7HFOv0surv9nxlEzaeeqO_DlXF 
-* Russian Literature: https://www.youtube.com/playlist?list=PLIy-3_lphT5C7Tfo_qeah4r_NPWP3MBGs
+* Russian Literature: https://www.youtube.com/playlist?list=PLIy-3_lphT5C7Tfo_qeah4r_NPWP3MBGs 
+
 
 ——————————————————————————————————————————————————————————————————————————————————————
 ——————————————————————————————————————————————————————————————————————————————————————
