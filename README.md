@@ -1,6 +1,91 @@
 # ONLINE CLASSES:
 —————————————
 
+HISTORY & POLITICS
+* History of the World (Richard Bulliet): https://www.youtube.com/playlist?list=PLXxM47ZxXvkaODXkQBO5RrUJQh5mA0N6l
+* Contemporary World History (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8CbrKqpo62Aps_lVew3uSW0 
+* Interpreting World History: Industrial Revolution to the Present (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8BkSa9rINc4UpWDnOcdFOqB
+
+* History of Islam (Richard Bulliet): https://www.youtube.com/playlist?list=PLQ7Ydow-dB2NTzTniXCBJXBptSbyJRzrW [6/20]
+* Labor Organizing & Unions for Socialists: audiobooks & videos: https://www.youtube.com/playlist?list=PLXUFLW8t2sntSYjP-T7C789LMBk5R5w2d
+
+* Indian Civilization (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8B4neta_B8LPM0G9UWy-Cqe [3]
+* Modern India: https://www.youtube.com/playlist?list=PLL15oStvysJbUuZNkdrbUxDmVl6E9VnEZ 
+* History of British India (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8C1aMDhtEX5np43SxhcjOTC 
+* India and South Asia, 1947-present (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8Ayegk3NTkdwZzlKgDgxd4d
+* Political and Cultural History of Contemporary India (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8B8YI7S4z0kkIy5tcQJrnnD
+* Contemporary Iran: https://www.youtube.com/playlist?list=PLa_IZE-YUHqznPZwQytqdA2obYhEEQgFx
+
+* History Of Africa with Zeinab Badawi: https://www.youtube.com/playlist?list=PLajyiGz4JeyPq2lpEt2skZRhQsAspIQCp
+* History of Sub-Saharan Africa: https://www.youtube.com/playlist?list=PLLd-EqjxumrumtFgw2t1kOvVOOtSaDf_R 
+* Chinese History: https://www.youtube.com/playlist?list=PL-zm2mrr9onY5hrGya2DhgBn_-xUk51p3 
+
+* Oxford Latin American History Seminar Series: https://www.youtube.com/playlist?list=PLYaUhYOcGFOPruR1L0D1J7542CipC69Bj
+* Economic History of Latin America: https://www.youtube.com/playlist?
+* list=PLA71HTdXXZ0s7892Q77h51ovlxEot4x-a
+
+* Pre-modern Japan: https://www.youtube.com/playlist?list=PLkojXMNPmzp3g9N0fEvVTCIRXOL-6BVhW
+* Japanese History: https://www.youtube.com/playlist?list=PL1oDFJudUbRVMUNSCrzw7eGAnWIm3j0yW
+* An Interpretative History of Japan: https://www.youtube.com/playlist?list=PLAzizeRnidoVcCMZBlYoBqKekva4ID5Gj 
+* History of Vietnam: https://www.youtube.com/playlist?list=PLGyUW04Dk6MKLdiF_c4HlcoUSnFTo1ZtO 
+* Readings in Philippine History: https://www.youtube.com/playlist?list=PLgeUYVV_zci5HWVBG1Nwd94SBrc81gYsz 
+* Lectures of Korean History: https://www.youtube.com/playlist?list=PLxX90iq3CBpk_TR-zl_fsmbPJbRRvNuUh 
+
+* Early Middle Ages: https://www.youtube.com/playlist?list=PL851F45079A91C3F2 
+* Medieval Europe: https://www.youtube.com/playlist?list=PL4pSZ5yOhlIk_kqorsxk8nLFGSgD78pSV 
+* Modern Empires: https://www.youtube.com/playlist?list=PL96EAE2875AF0EDEA 
+* Power and politics in today’s world: https://www.youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy
+* Ancient Greek History: https://www.youtube.com/watch?v=9FrHGAd_yto&list=PL023BCE5134243987&ab_channel=YaleCourses 
+* Yale lectures on Rome: https://www.youtube.com/playlist?list=PL1850DA8D52741656 
+
+* Early Modern England: https://www.youtube.com/watch?v=e3uBi2TZdUY&list=PL18B9F132DFD967A3&pp=iAQB&ab_channel=YaleCourses 
+* Britain in the 20th Century: https://www.youtube.com/playlist?list=PL98A2AB26E26E27F0 
+* European Civilization: https://www.youtube.com/playlist?list=PL3A8E6CE294860A24 
+* Modern France: https://www.youtube.com/playlist?list=PLnCAQSAjuO-wv6-F-qkLZmBL8LSjmGDKg 
+* France Since 1871 with John Merriman: https://www.youtube.com/playlist?list=PLE653BF062C136B62
+* Russia: https://www.youtube.com/playlist?list=PLcpnbwlz1claAiN2-m-JWz7d0iLOF9dnH
+* Imperial Russia: https://www.youtube.com/playlist?list=PLEETkM6vwQPHJHhXinsuQN7jahEjbUPPY
+
+* Lectures in American History: https://www.youtube.com/playlist?list=PLR8X5I0C1LF7J2IJUQMv2phPdO--3Fm6r 
+* US history lectures: https://www.youtube.com/playlist?list=PLjnwpaclU4wXIeBg-rugKMup9o8ohyEEL 
+* American Revolution: https://www.youtube.com/watch?v=shTBSGoYtK0&list=PLDA2BC5E785D495AB&ab_channel=YaleCourses 
+* American Civil War & Reconstruction: https://www.youtube.com/playlist?list=PL5DD220D6A1282057 
+* African American History: From Emancipation to the Present: https://www.youtube.com/playlist?list=PLh9mgdi4rNeyqnC6Gj5VCZERhhy9CC1S6 
+
+* World War I: https://www.youtube.com/playlist?list=PLZY2FXiequVwMEE4VnvkDX_4AoQ47TiC1 
+* World War II: https://www.youtube.com/playlist?list=PL6VT00WQu6ie9B6gY-0jGHi_mDwoukD52 
+* World War II: https://www.youtube.com/playlist?list=PLJ9ZJ_La7QydEVzaYR9hw5uQDfUBzUmSs 
+* The Soviet Union: https://www.youtube.com/playlist?list=PLXZU88XlDvRro1YCLXGspVRA2LwyKkSz2 
+
+* Books That Matter: an Introduction to a new series of brief reflections upon books (Vinay Lal): https://www.youtube.com/watch?v=_PWgjs4CKGc&list=PLy3KRgc0HE8B2sT_tsaNdgXzL8zvvqST3&ab_channel=VinayLal 
+* Moral and Political Thought of Mahatma Gandhi (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8A0kI_h1iniqVv6O_knityt 
+* New Lectures on Gandhi 2019-22 (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8C98-OfP1-23OpeM7n-uopQ
+* Additional Lectures on Indian Civilization, History, and Religion (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8DHrq0PCaLGQEnGho9Gb8uj 
+* Bollywood and Indian Nationalism (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8Da0SA-1kOiJO7f8qDYCU8G
+* The Global Indian Diaspora (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8B_bhlffm8DfhVT35teOefE
+* The Conquest of Knowledge: The British in India (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8BwYbPDiSyOxp8ph8k8pHsh 
+* Lectures & Interviews on History, Gandhi, and Politics (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8BqMw0x0TiGD80ImLyPEJZw 
+* Additional Lectures on Indian Civilization, History, and Religion (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8DHrq0PCaLGQEnGho9Gb8uj 
+* New (2020-21) Detailed Lectures in Indian History (Vinay Lal): https://www.youtube.com/playlist?list=PLy3KRgc0HE8AtjjFAV6yk_0HPF0AkZj-F 
+* Other Vinay Lal lectures: https://www.youtube.com/@dillichalo 
+
+* Marxian Economics: https://www.youtube.com/playlist?list=PL8B2364D7C0D31D63 
+* Modern Social Theory: https://www.youtube.com/playlist?list=PLDF7B08FF8564D1FE 
+* Capitalism: Success, Crisis and Reform: https://www.youtube.com/playlist?list=PL2497FD1251EED4DD
+
+OTHER
+* Postcolonial Literature: https://www.youtube.com/playlist?list=PL0BZ98iyy85PcM7PI-g9EzU1bjvcdVWWG 
+* English Literature: https://www.youtube.com/playlist?list=PLjLHo7a7HFOv0surv9nxlEzaeeqO_DlXF 
+* Russian Literature: https://www.youtube.com/playlist?list=PLIy-3_lphT5C7Tfo_qeah4r_NPWP3MBGs 
+* Don Quixote: https://www.youtube.com/playlist?list=PL4A35EEAEE3880943 
+* History of the Old Testament: https://www.youtube.com/playlist?list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi 
+* History of New Testament: https://www.youtube.com/playlist?list=PL279CFA55C51E75E0 
+* Shakespeare: https://www.youtube.com/playlist?list=PL8D67jLu3Mcm3Zfagnuvzpyq7H_RxnLJO 
+* Shakespeare: https://www.youtube.com/playlist?list=PLLBTlqKLPFAOwyw6tyJdshu-aHOyHA4TN 
+* Hemingway, Fitzgerald, Faulkner: https://www.youtube.com/playlist?list=PL84C3A4DD9C263D79 
+* Intro to Theory of Literature: https://www.youtube.com/playlist?list=PLD00D35CBC75941BD 
+* Milton: https://www.youtube.com/playlist?list=PL2103FD9F9D0615B7
+
 MACHINE LEARNING
 
 * Stanford CS 236 - Deep Generative Models: https://www.bilibili.com/video/BV1SJ411b7D8?p=1 [7/20] [skipped 5,6]
@@ -180,6 +265,7 @@ ENGINEERING
 * Fluid Mechanics 1 (John Biddle): https://www.youtube.com/playlist?list=PLZOZfX_TaWAGocs2k5QmTL44OKOl7rn34 [0/19]
 * Fluid Mechanics 2 (John Biddle): https://www.youtube.com/playlist?list=PLZOZfX_TaWAE7uM59dIBr-rH73WTJCcp_ 
 * Heat Transfer (John Biddle): https://www.youtube.com/playlist?list=PLZOZfX_TaWAHZOgn8CRjpqRElp5Dd-GaY 
+* Strength of Materials
 * Intro to Circuits: https://www.youtube.com/playlist?list=PL8kq5qsK0cc42p-m3eGHiuCi3Xr_ORv9W 
 * Design of Analog Circuits: https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT 
 * Design of Digital Circuits: https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9 
@@ -187,62 +273,95 @@ ENGINEERING
 * Convex Optimization (Stephen Boyd): https://www.youtube.com/playlist?list=PL3940DD956CDF0622 
 
 OTHER SCIENCE
-
 * Nanotechnology: https://www.youtube.com/watch?v=jisTDmIk3Nw&list=PLFXdam636ef0wz5SxTxgeIXXM1qYARgRd&index=1&ab_channel=MITOpenCourseWare 
 * Intro to Micro-economics: https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-
+* Intro to Psychology: https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F&ab_channel=YaleCourses 
 * Intro to Psychology: https://www.youtube.com/playlist?list=PL44ABC9278E2EE706 [2]
 * Historical Geology: https://www.youtube.com/@historicalgeologywithdr.ch9083/playlists 
+* Atmosphere, Ocean and Environmental Change: https://www.youtube.com/playlist?list=PL902AF247F4163F61
 * Environmental Science: https://www.youtube.com/playlist?list=PLSsIp6g3OZyVZgG0imE46NCXH3iwvD9SF
 * Linguistics: https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j 
 * Chomsky on linguistics: https://www.youtube.com/playlist?list=PLISEtDmihMo2Acv63ixYFN7mDk81i2tpK 
 
-HISTORY & POLITICS
-* Chinese politics [5/14]: https://www.youtube.com/watch?v=hOcXk_35-rI&list=PLtC2xxF6af5RtM6KXsKDW6tQUUlHvs61W&ab_channel=RoryTruex
-* Modern Empires: https://www.youtube.com/playlist?list=PL96EAE2875AF0EDEA 
-* History of the World (Richard Bulliet): https://www.youtube.com/playlist?list=PLXxM47ZxXvkaODXkQBO5RrUJQh5mA0N6l
-* Early Middle Ages: https://www.youtube.com/playlist?list=PL851F45079A91C3F2 
-* Power and politics in today’s world: https://www.youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy
-* Chinese History: https://www.youtube.com/playlist?list=PL-zm2mrr9onY5hrGya2DhgBn_-xUk51p3 
-* Indian Civilization: https://www.youtube.com/playlist?list=PLy3KRgc0HE8B4neta_B8LPM0G9UWy-Cqe 
-* Modern India: https://www.youtube.com/playlist?list=PLL15oStvysJbUuZNkdrbUxDmVl6E9VnEZ 
-* History of British India: https://www.youtube.com/playlist?list=PLy3KRgc0HE8C1aMDhtEX5np43SxhcjOTC 
-* History Of Africa with Zeinab Badawi: https://www.youtube.com/playlist?list=PLajyiGz4JeyPq2lpEt2skZRhQsAspIQCp
-* Oxford Latin American History Seminar Series: https://www.youtube.com/playlist?list=PLYaUhYOcGFOPruR1L0D1J7542CipC69Bj
-* Economic History of Latin America: https://www.youtube.com/playlist?list=PLA71HTdXXZ0s7892Q77h51ovlxEot4x-a
-* European History: https://www.youtube.com/playlist?list=PL3A8E6CE294860A24 
-* Lectures in American History: https://www.youtube.com/playlist?list=PLR8X5I0C1LF7J2IJUQMv2phPdO--3Fm6r 
-* US history lectures: https://www.youtube.com/playlist?list=PLjnwpaclU4wXIeBg-rugKMup9o8ohyEEL 
-* African American History: From Emancipation to the Present: https://www.youtube.com/playlist?list=PLh9mgdi4rNeyqnC6Gj5VCZERhhy9CC1S6 
-* World War I: https://www.youtube.com/playlist?list=PLZY2FXiequVwMEE4VnvkDX_4AoQ47TiC1 
-* World War II: https://www.youtube.com/playlist?list=PL6VT00WQu6ie9B6gY-0jGHi_mDwoukD52 
-* World War II: https://www.youtube.com/playlist?list=PLJ9ZJ_La7QydEVzaYR9hw5uQDfUBzUmSs 
-* Modern France: https://www.youtube.com/playlist?list=PLnCAQSAjuO-wv6-F-qkLZmBL8LSjmGDKg 
-* France Since 1871 with John Merriman: https://www.youtube.com/playlist?list=PLE653BF062C136B62
-* Pre-modern Japan: https://www.youtube.com/playlist?list=PLkojXMNPmzp3g9N0fEvVTCIRXOL-6BVhW
-* The Soviet Union: https://www.youtube.com/playlist?list=PLXZU88XlDvRro1YCLXGspVRA2LwyKkSz2 
-* Russia: https://www.youtube.com/playlist?list=PLcpnbwlz1claAiN2-m-JWz7d0iLOF9dnH
-* Imperial Russia: https://www.youtube.com/playlist?list=PLEETkM6vwQPHJHhXinsuQN7jahEjbUPPY
-* Contemporary Iran: https://www.youtube.com/playlist?list=PLa_IZE-YUHqznPZwQytqdA2obYhEEQgFx
-* History of Islam: https://www.youtube.com/playlist?list=PLQ7Ydow-dB2NTzTniXCBJXBptSbyJRzrW 
-* American Civil War & Reconstruction: https://www.youtube.com/playlist?list=PL5DD220D6A1282057 
-* American Revolution: https://www.youtube.com/watch?v=shTBSGoYtK0&list=PLDA2BC5E785D495AB&ab_channel=YaleCourses 
+———————————————————————————————————————————
+———————————————————————————————————————————
 
-OTHER
-* English Literature: https://www.youtube.com/playlist?list=PLjLHo7a7HFOv0surv9nxlEzaeeqO_DlXF 
-* Russian Literature: https://www.youtube.com/playlist?list=PLIy-3_lphT5C7Tfo_qeah4r_NPWP3MBGs 
+* 6.0001 Intro to Programming: https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA [4/12]
 
+https://www.youtube.com/watch?v=Q57rzaHHO0k&ab_channel=DeepMind
+https://www.youtube.com/watch?v=7l2JoKN8x_Q&ab_channel=T%C3%BCbingenMachineLearning
+https://www.youtube.com/channel/UC1Ic4uK21HMPEn8hHieUnyw
+* DLVU: https://www.youtube.com/channel/UCYh1zKnwzrSjrO2Ae-akfTg
+Lectures 8-11: https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF
+* HW 3 for Stanford computer vision course
+* HW for CS224N: Natural Language Processing with Deep Learning: https://web.stanford.edu/class/cs224n/
+* Hugging Face tutorial: https://huggingface.co/course/chapter0/1?fw=pt
 
-——————————————————————————————————————————————————————————————————————————————————————
-——————————————————————————————————————————————————————————————————————————————————————
+    * HW: http://cs330.stanford.edu/
+* Tubingen Probabilistic Machine Learning: youtube.com/@TubingenML
 
-COMPLETED
+Numenta: https://www.youtube.com/c/NumentaTheory
+Andrei Margeloiu - Machine Learning: https://www.youtube.com/channel/UC1Ic4uK21HMPEn8hHieUnyw
+Maziar Raissi: https://www.youtube.com/@maziarraissi3569
 
+Physics, Math, Biology courses: https://www.youtube.com/channel/UCBlqfZZYQWKyr6qLAB7LINw
+Digital Sreeni: https://www.youtube.com/@DigitalSreeni
+
+* Reading Marx’s Capital Volume 1 with David Harvey: https://www.youtube.com/playlist?list=PLWvnUfModHP9Ci8M1g39l4AZgK6YLCXd0 [2]
+
+* MIT Artificial Intelligence: https://www.youtube.com/playlist?list=PLGRecdYLYDNfBOtW6F1t5QTH01RdA5wjj (2, 3, 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 18, 19, 23) [2]
+* Agarwal’s Deep Learning course: https://www.youtube.com/playlist?list=PLLo1RD8Vbbb_6gCyqxG_qzCLOj9EKubw7
+
+* Experiment Design
+* Causal Inference: https://www.youtube.com/playlist?list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT80N0
+* CS287 Advanced Robotics at UC Berkeley Fall 2019 -- Instructor: Pieter Abbeel: https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF
+* DVLU Lectures
+* Probabilistic Graphical Models: https://www.youtube.com/watch?v=oqvdH_8lmCA&list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn&ab_channel=10-708PGM
+* Nonlinear Control Systems: https://www.youtube.com/playlist?list=PLhdVEDm7SZ-MqSUpBw78Cb2BmI142R2VA
+* Brain is Not a computer videos
+* Light transport class by the 2 minutes papers guy
+
+* Self driving cars: https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr
+* Evolutionary Robotics Course (Josh Bongard, Spring 2018): https://www.youtube.com/playlist?list=PLAuiGdPEdw0iRhEnF5yPuqegKVjKktDni
+* Probabilistic Machine Learning — Philipp Hennig, 2021: https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd
+
+BLAIR Blog
+Other MIT Open Courseware
+Read: Papers for CS 249 - Graph Neural Networks: https://github.com/yichousun/Winter2021_CS249_GNN/tree/main/Paper_Presentation
+SQL Tutorials
+Reinforcement Learning Rocket Project
+LSTM for time series prediction
+Pytorch / Tensorflow (Keras): CNN; VAE; GAN; Transformer Projects
+PyTorch Geometric and DGL Tutorials
+GNN and Dynamic GNNs (2-point boundary-value control project)
+Pointers, structs, classes, constructors/destructors
+Neural net review papers following 231C project suggestions
+CS 131: Lectures 7-20; Homework 3-8
+
+Stats 231A: https://github.com/Wangxh329/Pattern-Recognition-and-Machine-Learning
+https://github.com/cjmckeag/stats231a
+
+————————————————————————————————————————————
+
+Software Tools:
+
+Scripting tools: awk, grep, bash
+Version control: git
+Data wrangling: pandas
+Experiment management: Weights and Biases
+
+YOUTUBE PLAYLISTS:
+———————————
+James P. Cannon Speaks!
+
+COMPLETED:
 * Introduction to Robotics (Stanford): https://www.youtube.com/playlist?list=PL65CC0384A1798ADF
-* Machine Learning with Graphs (Stanford): https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
-* Geoffrey Hintons’s Neural Nets course: https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv
-* Foundations of Deep RL in 6 Lectures (Pieter Abbeel): https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0
-* Machine Learning Theory (Shai Ben-David): https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO
-* Computer Vision (Andreas Geiger, University of Tübingen): https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_
-* Stanford CS224N: Natural Language Processing with Deep Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ
-* MIT BCS 9.40 - Intro to Neural Computation: https://www.youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm
-* Data-Driven Dynamical Systems with Machine Learning (Steve Brunton): https://www.youtube.com/playlist?list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt
+* Machine Learning with Graphs (Stanford): https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn 
+* Geoffrey Hintons’s Neural Nets course: https://www.youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv 
+* Foundations of Deep RL in 6 Lectures (Pieter Abbeel): https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0 
+* Machine Learning Theory (Shai Ben-David): https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO 
+* Computer Vision (Andreas Geiger, University of Tübingen): https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_ 
+* Stanford CS224N: Natural Language Processing with Deep Learning: https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ 
+* MIT BCS 9.40 - Intro to Neural Computation: https://www.youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm 
+* Data-Driven Dynamical Systems with Machine Learning (Steve Brunton): https://www.youtube.com/playlist?list=PLMrJAkhIeNNR6DzT17-MM1GHLkuYVjhyt 
+* Chinese politics: https://www.youtube.com/watch?v=hOcXk_35-rI&list=PLtC2xxF6af5RtM6KXsKDW6tQUUlHvs61W&ab_channel=RoryTruex
